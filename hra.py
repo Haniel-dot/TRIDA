@@ -1,0 +1,1 @@
+elif uzi == papir and vyber == kamen:
