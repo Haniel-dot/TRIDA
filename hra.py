@@ -1,1 +1,1 @@
-while odpoved == "ano"cc
+while odpoved == "ano"
