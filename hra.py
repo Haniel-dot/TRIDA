@@ -1,0 +1,1 @@
+if uzi == "kamen" and vyber == "nuzky":
