@@ -1,0 +1,1 @@
+elif uzi == nuzky and vyber == papir:
