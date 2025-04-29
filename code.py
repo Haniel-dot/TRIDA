@@ -1,1 +1,0 @@
-uzi=input("Zadajte promenu")
