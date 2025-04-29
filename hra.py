@@ -1,0 +1,1 @@
+while odpoved == "ano"cc
